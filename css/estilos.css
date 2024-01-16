@@ -1,0 +1,30 @@
+form{
+    width: 40%;
+    padding: 3%;
+    border-radius: 6px;
+    margin: auto;
+    background-color: antiquewhite;
+    
+    
+}
+div{
+    display:flex;
+    flex-direction: column;
+}
+label{
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+input{
+    margin-bottom: 12px;
+    border-radius: 5px;
+    border: solid paleturquoise;
+}
+.login{
+    border: 2px solid black;
+      
+}
+h3{
+    text-decoration: underline;
+}
