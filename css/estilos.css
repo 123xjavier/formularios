@@ -4,8 +4,7 @@ form{
     border-radius: 6px;
     margin: auto;
     background-color: rgb(105, 96, 219);
-    
-    
+       
 }
 div{
     display:flex;
@@ -17,7 +16,7 @@ label{
     text-decoration: underline;
 }
 input{
-    margin-bottom: 12px;
+    margin-bottom: 12px; 
     border-radius: 5px;
     border: solid paleturquoise;
 }
