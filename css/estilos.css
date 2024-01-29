@@ -13,7 +13,7 @@ div{
 label{
     margin-bottom: 5px;
     font-weight: bold;
-    text-decoration: underline;
+   /* text-decoration: underline;*/
 }
 input{
     margin-bottom: 12px; 
@@ -27,3 +27,12 @@ input{
 h3{
     text-decoration: underline;
 }
+
+fieldset{
+    border: 2px solid black;
+}
+
+@media(max-width:618px){
+    form{width: 80%;}
+}
+  
